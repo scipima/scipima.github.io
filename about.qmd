@@ -12,6 +12,7 @@ about:
         href: https://github.com/scipima
 ---
 
-I am a data scientist at the European Parliament, mainly working on vote analysis, public opinion, and election campaigns. Previously, I worked for the European Commission Knowledge Centre on Migration and Demography.
+I am a data scientist at the European Parliament, mainly working on vote analysis, public opinion, and election campaigns. 
+Previously, I worked for the European Commission Knowledge Centre on Migration and Demography.
 
 I have a BA and MA in Philosophy and Ethics, an MSc and PhD in Politics, and a Graduate Certificate at Harvard Extension School as Data Scientist.
