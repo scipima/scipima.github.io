@@ -9,3 +9,5 @@ title: "Projects"
 [Data for Integration of migrants (D4I)](https://knowledge4policy.ec.europa.eu/dataset/ds00164_en). The Data for Integration (D4I) dataset has been obtained through a spatial disaggregation of statistics of the 2011 Census, collected from National Statistical Institutes. The results of the spatial processing of the original data is a uniform grid showing the concentration of migrants in cells of 100 by 100 m in all cities of eight European countries (France, Germany, Ireland, Italy, Netherlands, Portugal, Spain and the United Kingdom).
 
 [Public attitudes towards and salience of migration in Europe](https://github.com/scipima/attitudes_salience_shiny). Exploratory data analysis of attitudes towards and and salience of immigration in Europe.
+
+[EP votes](https://github.com/scipima/ep_vote_collect). The repo collects votes in the European Parliament. It can be used in two different ways. First, the repo enables the collection of daily votes. Second, the repo also offers the codes to download and put in tabular format all votes for the current mandate available on the API.
