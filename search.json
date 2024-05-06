@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a data scientist at the European Parliament, mainly working on vote analysis, public opinion, and election campaigns. Previously, I worked for the European Commission Knowledge Centre on Migration and Demography.\nI have a BA and MA in Philosophy and Ethics, an MSc and PhD in Politics, and a Graduate Certificate at Harvard Extension School as Data Scientist."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Atlas of Demography. A new knowledge management tool to better understand demographic change.\nDynamic Data Hub. Explore and analyse datasets relevant to migration and demography.\nData for Integration of migrants (D4I). The Data for Integration (D4I) dataset has been obtained through a spatial disaggregation of statistics of the 2011 Census, collected from National Statistical Institutes. The results of the spatial processing of the original data is a uniform grid showing the concentration of migrants in cells of 100 by 100 m in all cities of eight European countries (France, Germany, Ireland, Italy, Netherlands, Portugal, Spain and the United Kingdom).\nPublic attitudes towards and salience of migration in Europe. Exploratory data analysis of attitudes towards and and salience of immigration in Europe.\nEP votes. The repo collects votes in the European Parliament. It can be used in two different ways. First, the repo enables the collection of daily votes. Second, the repo also offers the codes to download and put in tabular format all votes for the current mandate available on the API.\nEP Amendments in Committees. This repo collects data regarding MEPs’ amendments in EP Committees. Once such amendments are collected, it provides convenience functions in both bash and R to count them as well as store the outputs."
+  }
+]
