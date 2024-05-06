@@ -11,3 +11,5 @@ title: "Projects"
 [Public attitudes towards and salience of migration in Europe](https://github.com/scipima/attitudes_salience_shiny). Exploratory data analysis of attitudes towards and and salience of immigration in Europe.
 
 [EP votes](https://github.com/scipima/ep_vote_collect). The repo collects votes in the European Parliament. It can be used in two different ways. First, the repo enables the collection of daily votes. Second, the repo also offers the codes to download and put in tabular format all votes for the current mandate available on the API.
+
+[EP Amendments in Committees](https://github.com/scipima/ep_amendments_test). This repo collects data regarding MEPs' amendments in EP Committees. Once such amendments are collected, it provides convenience functions in both bash and R to count them as well as store the outputs.
