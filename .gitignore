@@ -20,7 +20,7 @@
 
 # RStudio files
 .Rproj.user/
-.Rproj
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -49,6 +49,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# Ignore this, as per quarto website (https://quarto.org/docs/publishing/github-pages.html)
+/_site/
 # Ignore this, as per quarto website (https://quarto.org/docs/publishing/github-pages.html)
 /_site/
 /.quarto/
