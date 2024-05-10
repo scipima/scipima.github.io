@@ -51,6 +51,4 @@ rsconnect/
 
 # Ignore this, as per quarto website (https://quarto.org/docs/publishing/github-pages.html)
 /_site/
-# Ignore this, as per quarto website (https://quarto.org/docs/publishing/github-pages.html)
-/_site/
 /.quarto/
