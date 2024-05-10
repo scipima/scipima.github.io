@@ -1,16 +1,93 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/covid_migrant_workers/index.html",
+    "href": "posts/covid_migrant_workers/index.html",
+    "title": "The Labour Market Consequences of COVID-19 for Migrant Workers",
     "section": "",
-    "text": "I am a data scientist at the European Parliament, mainly working on vote analysis, public opinion, and election campaigns. Previously, I worked for the European Commission Knowledge Centre on Migration and Demography.\nI have a BA and MA in Philosophy and Ethics, an MSc and PhD in Politics, and a Graduate Certificate at Harvard Extension School as Data Scientist."
+    "text": "This report describes the consequences of the COVID-19 pandemic on the European labour market for three groups in the resident population: natives, EU born, and non-EU born. Combining macroeconomic data on the main labour market indicators - activity rate, employment rate, unemployment rate - with the latest waves of the European Labour Force Survey, the study describes the responses of the European labour markets to the shock and its diverse effects across socio-demographic segments of the population. Focusing on the differential effect, the analysis finds that after a severe contraction for in 2020, especially for non-EU born workers, the macro indicators have returned close to their pre-pandemic trends. However, when considering specific socio-demographic groups in 2020, a sizeable gap becomes evident in the probability of job termination by origin. EU-born and non-EU born workers display probabilities between 25% and 125% higher than natives. Among the already underprivileged group of non-EU born workers, the main losers are the young with a short labour market history in the Union.\n\nMazza J., M. Scipioni and G. Tintori, The Labour Market Consequences of COVID-19 for Migrant Workers, EUR 31110 EN, Publications Office of the European Union, Luxembourg, 2022, ISBN 978-92-76-53310-8, doi:10.2760/725468, JRC129109."
+  },
+  {
+    "objectID": "posts/r_begin_worshop/index.html",
+    "href": "posts/r_begin_worshop/index.html",
+    "title": "First steps in data analysis and visualisation with R",
+    "section": "",
+    "text": "This repo forms the background for a beginner-level workshop focused on teaching how to analyse and plot data with R. The ideas and codes in the main script - r_begin_workshop.qmd - borrow heavily from a number of sources.\n\nData Visualization for Social Science\nDavid Robinson’s Tidy Tuesday live screencast: Analyzing UN votes in R\n\nThe first, code-focused Sections give a quick overview on how to create plots with R’s ggplot suite of visualisation tools - Section 6 -, how to carry out simple aggregations and create your own functions - Section 7 -. Section 8 and 9 introduce new concepts such as joins and loops, and gently encourage the user to experiment writing more complex pieces of codes."
+  },
+  {
+    "objectID": "posts/attitudes_rururb/index.html",
+    "href": "posts/attitudes_rururb/index.html",
+    "title": "Political attitudes and behaviours: Do age and territory count?",
+    "section": "",
+    "text": "Survey data show that age divides emerge when it comes to both the salience of and attitudes towards different key political issues whereas rural-urban divides are rarely observed\n\nGoujon A., Jacobs-Crisioni C., Natale F., Lavalle C. (Eds), The demographic landscape of EU territories: challenges and opportunities in diversely ageing regions, EUR 30498 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-27239-7, doi:10.2760/658945, JRC123046"
+  },
+  {
+    "objectID": "posts/ep_votes_api/index.html",
+    "href": "posts/ep_votes_api/index.html",
+    "title": "EP Votes",
+    "section": "",
+    "text": "I set up a repo that collects votes in the European Parliament from the EP API. Check it here EP votes. It can be used in two different ways. First, the repo enables the collection of daily votes. Second, the repo also offers the codes to download and put in tabular format all votes for the current mandate available on the API."
+  },
+  {
+    "objectID": "posts/ep_committee_amendments/index.html",
+    "href": "posts/ep_committee_amendments/index.html",
+    "title": "Amendments in EP Committees",
+    "section": "",
+    "text": "This repo collects data regarding MEPs’ amendments in EP Committees. Once such amendments are collected, it provides convenience functions in both bash and R to count them as well as store the outputs. EP Amendments in Committees provides a series of function to gather and explore text data in both bash and R."
+  },
+  {
+    "objectID": "posts/ebar_eda/index.html",
+    "href": "posts/ebar_eda/index.html",
+    "title": "Eurobarometer EDA",
+    "section": "",
+    "text": "Here’s the link to a shiny app that i created to quickly explore some key trends from Eurobarometer data.\n\nThe app is based on a repo that gathers and harmonises aggregated excel files for the Standard Eurobarometer. The app also shows estimates of turnout intentions coming from the EP Eurobarometer surveys."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Marco Scipioni",
+    "section": "",
+    "text": "I am a data scientist at the European Parliament, mainly working on vote analysis, public opinion, and election campaigns. Previously, I worked for the European Commission Knowledge Centre on Migration and Demography. Prior to EU institutions, I spent some years in academia, at LSE, UCC, and Birkbeck.\nI have a BA and MA in Philosophy and Ethics, an MSc and PhD in Politics, and a Graduate Certificate as Data Scientist."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Atlas of Demography. A knowledge management tool to better understand demographic change.\nDynamic Data Hub. Explore and analyse datasets relevant to migration and demography.\nData for Integration of migrants (D4I). The Data for Integration (D4I) dataset was obtained through a spatial disaggregation of statistics of the 2011 Census, collected from National Statistical Institutes. The results of the spatial processing of the original data is a uniform grid showing the concentration of migrants in cells of 100 by 100 m in all cities of eight European countries (France, Germany, Ireland, Italy, Netherlands, Portugal, Spain, and the United Kingdom).\nPublic attitudes towards and salience of migration in Europe. Exploratory data analysis of attitudes towards and and salience of immigration in Europe.\nEP votes. The repo collects votes in the European Parliament. It can be used in two different ways. First, the repo enables the collection of daily votes. Second, the repo also offers the codes to download and put in tabular format all votes for the current mandate available on the API.\nEP Amendments in Committees. This repo collects data regarding MEPs’ amendments in EP Committees. Once such amendments are collected, it provides convenience functions in both bash and R to count them as well as store the outputs."
+    "text": "Eurobarometer EDA\n\n\n\nsurvey\n\n\nshiny\n\n\nsalience\n\n\nturnout\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAmendments in EP Committees\n\n\n\nEP\n\n\nCommittees\n\n\nbash\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nApr 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEP Votes\n\n\n\nEP\n\n\nAPI\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nMar 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst steps in data analysis and visualisation with R\n\n\n\ntutorial\n\n\nvisualisation\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nJan 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Labour Market Consequences of COVID-19 for Migrant Workers\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData for Integration of migrants (D4I)\n\n\n\ndatabase\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nNov 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe gender gap in support for governments during the COVID crisis\n\n\n\nsurvey\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtlas of Demography\n\n\n\ndashboards\n\n\nsurvey\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical attitudes and behaviours: Do age and territory count?\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 10, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImmigration and trust in the EU\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 4, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDynamic Data Hub\n\n\n\ndashboards\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nDec 1, 2017\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/atlas_demography/index.html",
+    "href": "posts/atlas_demography/index.html",
+    "title": "Atlas of Demography",
+    "section": "",
+    "text": "The Atlas of Demography is a knowledge management tool to better understand demographic change set up at the KCMD."
+  },
+  {
+    "objectID": "posts/d4i/index.html",
+    "href": "posts/d4i/index.html",
+    "title": "Data for Integration of migrants (D4I)",
+    "section": "",
+    "text": "Data for Integration of migrants (D4I). The Data for Integration (D4I) dataset was obtained through a spatial disaggregation of statistics of the 2011 Census, collected from National Statistical Institutes. The results of the spatial processing of the original data is a uniform grid showing the concentration of migrants in cells of 100 by 100 m in all cities of eight European countries (France, Germany, Ireland, Italy, Netherlands, Portugal, Spain, and the United Kingdom)."
+  },
+  {
+    "objectID": "posts/attitudes_salience_migration/index.html",
+    "href": "posts/attitudes_salience_migration/index.html",
+    "title": "Immigration and trust in the EU",
+    "section": "",
+    "text": "This report, inspired by the work of DG REGIO on the Geography of Discontent, adopts a territorial perspective in analysing across all Member States opinions and voting in relation to immigration and trust in the EU.\n\nScipioni, M., Tintori, G., Alessandrini, A., Migali, S. and Natale, F., Immigration and trust in the EU, EUR 30042 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-14661-2 (online), doi:10.2760/76114 (online), JRC118855."
+  },
+  {
+    "objectID": "posts/dynamic_data_hub/index.html",
+    "href": "posts/dynamic_data_hub/index.html",
+    "title": "Dynamic Data Hub",
+    "section": "",
+    "text": "The Dynamic Data Hub enables you to explore and analyse datasets relevant to migration and demography."
+  },
+  {
+    "objectID": "posts/government_support_gap/index.html",
+    "href": "posts/government_support_gap/index.html",
+    "title": "The gender gap in support for governments during the COVID crisis",
+    "section": "",
+    "text": "Using data covering most European Union Member States, we study how the support for national governments has unravelled in the first months of the COVID pandemic. Motivated by the growing evidence on the uneven economic impact of this crisis across genders, we study if such unequal economic burden is related to differences in support for public authorities between men and women. While the support for national governments has overall faded in the period considered, the decline has been more pronounced for women and working women in particular. We find indication that the decline in support signals a shift in concerns among Europeans and women in particular, from the health emergency to the economic consequences of the pandemic. We impute up to a third of the widening gender gap in support for government to the shift of emphasis from the health to the economic dimension of the crisis.\n\nMazza, J., & Scipioni, M. (2023). The gender gap in support for governments during the COVID crisis. Journal of European Public Policy, 30(2), 254–270. https://doi.org/10.1080/13501763.2022.2027503"
   }
 ]

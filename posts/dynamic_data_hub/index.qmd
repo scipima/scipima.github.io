@@ -1,0 +1,14 @@
+---
+title: "Dynamic Data Hub"
+author: "Marco Scipioni"
+date: "2017-12-01"
+categories: [dashboards, migration, analysis]
+image: "ddh.png"
+---
+
+The [Dynamic Data Hub](https://migration-demography-tools.jrc.ec.europa.eu/data-hub/) enables you to explore and analyse datasets relevant to migration and demography.
+
+![](ddh.png)
+
+
+

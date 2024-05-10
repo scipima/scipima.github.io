@@ -1,0 +1,14 @@
+---
+title: "Eurobarometer EDA"
+author: "Marco Scipioni"
+date: "2024-05-03"
+categories: [survey, shiny, salience, turnout, analysis]
+---
+
+
+Here's the link to a [shiny app](http://nwf7y1-marco-scipioni.shinyapps.io/shiny_app) that i created to quickly explore some key trends from Eurobarometer data.
+
+![](ebar_eda.png)
+
+The app is based on a [repo](https://github.com/scipima/eurobarometer_eda) that gathers and harmonises aggregated excel files for the Standard Eurobarometer.
+The app also shows estimates of turnout intentions coming from the [EP Eurobarometer](https://europa.eu/eurobarometer/surveys/browse/all/ep) surveys. 

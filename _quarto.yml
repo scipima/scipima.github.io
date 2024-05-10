@@ -1,19 +1,25 @@
 project:
   type: website
   output-dir: docs
-
 website:
-  title: "Marco Scipioni"
+  title: "Portfolio"
   navbar:
     left:
-      - href: index.qmd
-        text: Projects
-      - about.qmd
-
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+    right:
+      - icon: github
+        href: https://github.com/scipima
+      - icon: linkedin
+        href: https://www.linkedin.com/in/marco-scipioni-a10b2b8b/
+      - icon: googlescholar
+        href: https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
-    toc: true
 
-editor: visual
+
+

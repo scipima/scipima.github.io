@@ -1,0 +1,13 @@
+---
+title: "Immigration and trust in the EU"
+author: "Marco Scipioni"
+date: "2020-02-04"
+categories: [survey, migration, analysis]
+image: "attitude_salience_migration.png"
+---
+
+This report, inspired by the work of DG REGIO on the Geography of Discontent, adopts a territorial perspective in analysing across all Member States opinions and voting in relation to immigration and trust in the EU.
+
+![](attitude_salience_migration.png)
+
+Scipioni, M., Tintori, G., Alessandrini, A., Migali, S. and Natale, F., Immigration and trust in the EU, EUR 30042 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-14661-2 (online), doi:10.2760/76114 (online), JRC118855.

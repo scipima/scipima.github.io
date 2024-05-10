@@ -1,0 +1,11 @@
+---
+title: "Atlas of Demography"
+author: "Marco Scipioni"
+date: "2022-02-01"
+categories: [dashboards, survey, analysis]
+image: "atlas_demography.png"
+---
+
+The [Atlas of Demography](https://migration-demography-tools.jrc.ec.europa.eu/atlas-demography) is a knowledge management tool to better understand demographic change set up at the [KCMD](https://knowledge4policy.ec.europa.eu/migration-demography_en).
+
+![](atlas_demography.png)

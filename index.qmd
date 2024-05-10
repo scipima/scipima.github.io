@@ -1,26 +1,19 @@
 ---
-title: "Projects"
+title: "Marco Scipioni"
+image: fb_old.jpg
+about: 
+    template: trestles    
+    links: 
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/marco-scipioni-a10b2b8b/
+      - icon: github
+        text: GitHub
+        href: https://github.com/scipima
 ---
 
-[Atlas of Demography](https://migration-demography-tools.jrc.ec.europa.eu/atlas-demography). 
-A knowledge management tool to better understand demographic change.
+I am a data scientist at the [European Parliament](https://www.reneweuropegroup.eu/who-we-are/staff/marco-scipioni), mainly working on vote analysis, public opinion, and election campaigns. 
+Previously, I worked for the [European Commission Knowledge Centre on Migration and Demography](https://knowledge4policy.ec.europa.eu/migration-demography_en).
+Prior to EU institutions, I spent some years in [academia](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en), at [LSE](https://www.lse.ac.uk/government), [UCC](https://www.ucc.ie/en/government-and-politics/), and [Birkbeck](https://www.bbk.ac.uk/courses/postgraduate/politics). 
 
-[Dynamic Data Hub](https://migration-demography-tools.jrc.ec.europa.eu/data-hub/). 
-Explore and analyse datasets relevant to migration and demography.
-
-[Data for Integration of migrants (D4I)](https://knowledge4policy.ec.europa.eu/dataset/ds00164_en). 
-The Data for Integration (D4I) dataset was obtained through a spatial disaggregation of statistics of the 2011 Census, collected from National Statistical Institutes. 
-The results of the spatial processing of the original data is a uniform grid showing the concentration of migrants in cells of 100 by 100 m in all cities of eight European countries (France, Germany, Ireland, Italy, Netherlands, Portugal, Spain, and the United Kingdom).
-
-[Public attitudes towards and salience of migration in Europe](https://github.com/scipima/attitudes_salience_shiny). 
-Exploratory data analysis of attitudes towards and and salience of immigration in Europe.
-
-[EP votes](https://github.com/scipima/ep_vote_collect). 
-The repo collects votes in the European Parliament. 
-It can be used in two different ways. 
-First, the repo enables the collection of daily votes. 
-Second, the repo also offers the codes to download and put in tabular format all votes for the current mandate available on the API.
-
-[EP Amendments in Committees](https://github.com/scipima/ep_amendments_test). 
-This repo collects data regarding MEPs' amendments in EP Committees. 
-Once such amendments are collected, it provides convenience functions in both bash and R to count them as well as store the outputs.
+I have a BA and MA in Philosophy and Ethics, an MSc and PhD in Politics, and a Graduate Certificate as Data Scientist.

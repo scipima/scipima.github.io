@@ -1,0 +1,18 @@
+---
+title: "The Labour Market Consequences of COVID-19 for Migrant Workers"
+author: "Marco Scipioni"
+date: "2022-12-01"
+categories: [survey, migration, analysis]
+image: "covid_migrant_workers.png"
+---
+
+This report describes the consequences of the COVID-19 pandemic on the European labour market for three groups in the resident population: natives, EU born, and non-EU born. 
+Combining macroeconomic data on the main labour market indicators - activity rate, employment rate, unemployment rate - with the latest waves of the European Labour Force Survey, the study describes the responses of the European labour markets to the shock and its diverse effects across socio-demographic segments of the population.
+Focusing on the differential effect, the analysis finds that after a severe contraction for in 2020, especially for non-EU born workers, the macro indicators have returned close to their pre-pandemic trends. 
+However, when considering specific socio-demographic groups in 2020, a sizeable gap becomes evident in the probability of job termination by origin.
+EU-born and non-EU born workers display probabilities between 25% and 125% higher than natives.
+Among the already underprivileged group of non-EU born workers, the main losers are the young with a short labour market history in the Union.
+
+![](covid_migrant_workers.png)
+
+Mazza J., M. Scipioni and G. Tintori, The Labour Market Consequences of COVID-19 for Migrant Workers, EUR 31110 EN, Publications Office of the European Union, Luxembourg, 2022, ISBN 978-92-76-53310-8, doi:10.2760/725468, JRC129109.

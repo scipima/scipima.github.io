@@ -1,0 +1,16 @@
+---
+title: "First steps in data analysis and visualisation with R"
+author: "Marco Scipioni"
+date: "2024-01-10"
+categories: [tutorial, visualisation, analysis]
+image: "unvotes_yesbycountry.png"
+---
+
+This repo forms the background for a beginner-level workshop focused on teaching how to analyse and plot data with R.
+The ideas and codes in the main script - `r_begin_workshop.qmd` - borrow heavily from a number of sources.
+
+* [Data Visualization for Social Science](https://socviz.co/index.html#preface)
+* David Robinson's [Tidy Tuesday live screencast: Analyzing UN votes in R](https://www.youtube.com/watch?v=2RadZrpzTaA)
+
+The first, code-focused Sections give a quick overview on how to create plots with `R`'s `ggplot` suite of visualisation tools - Section 6 -, how to carry out simple aggregations and create your own functions - Section 7 -.
+Section 8 and 9 introduce new concepts such as joins and loops, and gently encourage the user to experiment writing more complex pieces of codes.

@@ -1,0 +1,16 @@
+---
+title: "Political attitudes and behaviours: Do age and territory count?"
+author: "Marco Scipioni"
+date: "2021-02-10"
+categories: [survey, migration, analysis]
+image: "attitudes_byage_byrururb.png"
+---
+
+Survey data show that age divides emerge when it
+comes to both the salience of and attitudes towards
+different key political issues whereas rural-urban divides
+are rarely observed
+
+![](attitudes_byage_byrururb.png)
+
+Goujon A., Jacobs-Crisioni C., Natale F., Lavalle C. (Eds), The demographic landscape of EU territories: challenges and opportunities in diversely ageing regions, EUR 30498 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-27239-7, doi:10.2760/658945, JRC123046
