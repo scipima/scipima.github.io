@@ -6,7 +6,7 @@ categories: [tutorial, visualisation, analysis]
 image: "unvotes_yesbycountry.png"
 ---
 
-This repo forms the background for a beginner-level workshop focused on teaching how to analyse and plot data with R.
+This [repo](https://github.com/scipima/r_begin_workshop) forms the background for a beginner-level workshop focused on teaching how to analyse and plot data with R.
 The ideas and codes in the main script - `r_begin_workshop.qmd` - borrow heavily from a number of sources.
 
 * [Data Visualization for Social Science](https://socviz.co/index.html#preface)
