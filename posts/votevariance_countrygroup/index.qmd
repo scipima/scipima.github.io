@@ -1,0 +1,9 @@
+---
+title: "Explaining variance in EP RCVs: The role of EP Political Groups v Country"
+author: "Marco Scipioni"
+date: "2024-05-12"
+categories: [EP, models, analysis]
+---
+
+The objective of this [short note](https://github.com/scipima/ep_vote_collect/blob/main/qmd/votevariance_countrygroup.qmd) is to showcase some of the possible use cases of the data gathered via the [EP Open Data Portal API](https://data.europarl.europa.eu/en/developer-corner/opendata-api).
+In this brief note, we seek tackle - in perhaps a very simplistic manner - the old question of whether country interests or political groupings tend to explain the variation we see in RCVs. 

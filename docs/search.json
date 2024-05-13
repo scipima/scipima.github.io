@@ -35,18 +35,32 @@
     "text": "The EP votes repo collects votes in the European Parliament from the EP API. It can be used in two different ways. First, the repo enables the collection of daily votes. Second, the repo also offers the codes to download and put in tabular format all votes for the current mandate available on the API."
   },
   {
-    "objectID": "posts/ebar_eda/index.html",
-    "href": "posts/ebar_eda/index.html",
-    "title": "Eurobarometer EDA",
+    "objectID": "posts/votevariance_countrygroup/index.html",
+    "href": "posts/votevariance_countrygroup/index.html",
+    "title": "Explaining variance in EP RCVs: The role of EP Political Groups v Country",
     "section": "",
-    "text": "Here’s the link to a shiny app that i created to quickly explore some key trends from Eurobarometer data.\n\nThe app is based on a repo that gathers and harmonises aggregated excel files for the Standard Eurobarometer. The app also shows estimates of turnout intentions coming from the EP Eurobarometer surveys."
+    "text": "The objective of this short note is to showcase some of the possible use cases of the data gathered via the EP Open Data Portal API. In this brief note, we seek tackle - in perhaps a very simplistic manner - the old question of whether country interests or political groupings tend to explain the variation we see in RCVs."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Eurobarometer EDA\n\n\n\nsurvey\n\n\nshiny\n\n\nsalience\n\n\nturnout\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAmendments in EP Committees\n\n\n\nEP\n\n\nCommittees\n\n\nbash\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nApr 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEP Votes\n\n\n\nEP\n\n\nAPI\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nMar 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst steps in data analysis and visualisation with R\n\n\n\ntutorial\n\n\nvisualisation\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nJan 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Labour Market Consequences of COVID-19 for Migrant Workers\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData for Integration of migrants (D4I)\n\n\n\ndatabase\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nNov 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe gender gap in support for governments during the COVID crisis\n\n\n\nsurvey\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtlas of Demography\n\n\n\ndashboards\n\n\nsurvey\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical attitudes and behaviours: Do age and territory count?\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 10, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImmigration and trust in the EU\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 4, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDynamic Data Hub\n\n\n\ndashboards\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nDec 1, 2017\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Explaining variance in EP RCVs: The role of EP Political Groups v Country\n\n\n\nEP\n\n\nmodels\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nMay 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEurobarometer EDA\n\n\n\nsurvey\n\n\nshiny\n\n\nsalience\n\n\nturnout\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAmendments in EP Committees\n\n\n\nEP\n\n\nCommittees\n\n\nbash\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nApr 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEP Votes\n\n\n\nEP\n\n\nAPI\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nMar 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst steps in data analysis and visualisation with R\n\n\n\ntutorial\n\n\nvisualisation\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nJan 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Labour Market Consequences of COVID-19 for Migrant Workers\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData for Integration of migrants (D4I)\n\n\n\ndatabase\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nNov 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe gender gap in support for governments during the COVID crisis\n\n\n\nsurvey\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtlas of Demography\n\n\n\ndashboards\n\n\nsurvey\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical attitudes and behaviours: Do age and territory count?\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 10, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImmigration and trust in the EU\n\n\n\nsurvey\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nFeb 4, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDynamic Data Hub\n\n\n\ndashboards\n\n\nmigration\n\n\nanalysis\n\n\n\n\n\n\n\nMarco Scipioni\n\n\nDec 1, 2017\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marco Scipioni",
+    "section": "",
+    "text": "I am a data scientist at the European Parliament, mainly working on vote analysis, public opinion, and election campaigns. Previously, I worked for the European Commission Knowledge Centre on Migration and Demography. Prior to EU institutions, I spent some years in academia, at LSE, UCC, and Birkbeck.\nI have a BA and MA in Philosophy and Ethics, an MSc and PhD in Politics, and a Graduate Certificate as Data Scientist."
+  },
+  {
+    "objectID": "posts/ebar_eda/index.html",
+    "href": "posts/ebar_eda/index.html",
+    "title": "Eurobarometer EDA",
+    "section": "",
+    "text": "Here’s the link to a shiny app that i created to quickly explore some key trends from Eurobarometer data.\n\nThe app is based on a repo that gathers and harmonises aggregated excel files for the Standard Eurobarometer. The app also shows estimates of turnout intentions coming from the EP Eurobarometer surveys."
   },
   {
     "objectID": "posts/r_begin_worshop/index.html",
