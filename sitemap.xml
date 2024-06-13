@@ -1,63 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://scipima.github.io/projects.html</loc>
-    <lastmod>2024-05-29T06:38:33.885Z</lastmod>
+    <loc>https://scipima.github.io/posts/covid_migrant_workers/index.html</loc>
+    <lastmod>2024-05-09T16:54:49.531Z</lastmod>
   </url>
   <url>
     <loc>https://scipima.github.io/posts/r_begin_worshop/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/posts/ep_votes_api/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.880Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/posts/ep_9mandate_legislative_trends/index.html</loc>
-    <lastmod>2024-06-10T13:11:48.548Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/posts/dynamic_data_hub/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/posts/covid_migrant_workers/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.870Z</lastmod>
+    <lastmod>2024-05-13T08:57:57.720Z</lastmod>
   </url>
   <url>
     <loc>https://scipima.github.io/posts/attitudes_rururb/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.867Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.861Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/posts/atlas_demography/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/posts/attitudes_salience_migration/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.869Z</lastmod>
+    <lastmod>2024-05-09T17:09:59.200Z</lastmod>
   </url>
   <url>
     <loc>https://scipima.github.io/posts/d4i/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.872Z</lastmod>
+    <lastmod>2024-05-09T16:56:21.135Z</lastmod>
   </url>
   <url>
     <loc>https://scipima.github.io/posts/ebar_eda/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.880Z</lastmod>
+    <lastmod>2024-05-13T09:03:20.032Z</lastmod>
   </url>
   <url>
-    <loc>https://scipima.github.io/posts/ep_committee_amendments/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.880Z</lastmod>
+    <loc>https://scipima.github.io/index.html</loc>
+    <lastmod>2024-05-09T16:03:21.509Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scipima.github.io/projects.html</loc>
+    <lastmod>2024-05-09T18:15:17.075Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scipima.github.io/posts/atlas_demography/index.html</loc>
+    <lastmod>2024-05-09T06:31:16.371Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scipima.github.io/posts/attitudes_salience_migration/index.html</loc>
+    <lastmod>2024-05-09T18:12:00.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scipima.github.io/posts/dynamic_data_hub/index.html</loc>
+    <lastmod>2024-05-09T16:56:34.780Z</lastmod>
   </url>
   <url>
     <loc>https://scipima.github.io/posts/government_support_gap/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.882Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scipima.github.io/posts/votevariance_countrygroup/index.html</loc>
-    <lastmod>2024-05-29T06:38:33.885Z</lastmod>
+    <lastmod>2024-05-09T16:11:12.218Z</lastmod>
   </url>
 </urlset>
