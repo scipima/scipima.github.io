@@ -6,7 +6,7 @@ categories: [survey, shiny, salience, turnout, analysis]
 ---
 
 
-Here's the link to a [shiny app](http://nwf7y1-marco-scipioni.shinyapps.io/shiny_app) that I created to quickly explore some key trends from Eurobarometer data.
+Here's the link to a [shiny app](http://nwf7y1-marco-scipioni.shinyapps.io/ebar_eda) that I created to quickly explore some key trends from Eurobarometer data.
 
 ![](ebar_eda.png)
 
